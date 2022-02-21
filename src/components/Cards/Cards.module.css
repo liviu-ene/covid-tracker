@@ -1,0 +1,33 @@
+.container {
+    margin: 50px 0;
+}
+
+.card {
+    margin: 0 2% !important;
+    box-shadow: 0 0.125rem 0.25rem 0px rgba(0, 0, 0, 0.2) !important;
+    border: 0.0625rem solid #ddd;
+    border-radius: 0.25rem;   
+}
+
+.title {
+    font-size: 16px;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.number {
+    font-size: 2rem !important;
+    font-weight: 700 !important;
+}
+
+.infected {
+    border-bottom: 0.33rem solid #247ba0;
+}
+
+.recovered {
+    border-bottom: 0.33rem solid #3d9970;
+}
+
+.deaths {
+    border-bottom: 0.33rem solid #C70039;
+}

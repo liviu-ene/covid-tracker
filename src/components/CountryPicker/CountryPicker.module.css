@@ -1,0 +1,15 @@
+.formControl {
+    padding-right: 16px !important;
+    width: 62%;
+    position: relative;
+    top: 4px;
+  }
+
+  .typography {
+    font-weight: 700 !important;
+}
+
+.container {
+  position: relative;
+  top: 5px;
+}
