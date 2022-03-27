@@ -3,6 +3,8 @@
 
 React app that fetches global and regional covid data from API and displays it via chart.js
 
+Uses data from [disease.sh](https://disease.sh/)
+
 Deployed on netlify: https://my-coronavirus-tracker.netlify.app/
 
 ![App Screenshot](https://i.imgur.com/NePs8Jt.png)
